@@ -1,33 +1,53 @@
+
 {
   "travels": [
     {
       "id": 1,
-      "title": "Module 2 Project",
-      "description": "Module 2 project - Integrate a React app with backend.",
-      "userId": 1
+      "name": "Paris, France",
+      "description": "The City of Light, known for its art, fashion, and culture.",
+      "image": "https://www.viajesyfotografia.com/wp-content/uploads/2021/09/paris-DSC02733_result.jpg",
+      "bestTimeToVisit": "Spring (April to June)",
+      "popularAttractions": ["Eiffel Tower", "Louvre Museum", "Notre-Dame Cathedral"],
+      "reviews": [
+        { "user": "John Doe", "rating": 5, "comment": "An unforgettable experience!" },
+        { "user": "Jane Smith", "rating": 4, "comment": "Beautiful city but crowded." }
+      ]
     },
     {
       "id": 2,
-      "title": "Module 3 Project",
-      "description": "Create a full-stack application using MERN stack.",
-      "userId": 1
-    }
-  ],
-  "tasks": [
-    {
-      "id": 1,
-      "projectId": 1,
-      "description": "Use Vite to create a basic React app"
-    },
-    {
-      "id": 2,
-      "projectId": 1,
-      "description": "Install React Router and setup routes"
+      "name": "Tokyo, Japan",
+      "description": "A blend of modern skyscrapers and traditional temples.",
+      "image": "https://media.istockphoto.com/id/484915982/es/foto/akihabara-tokyo.jpg?s=612x612&w=0&k=20&c=Hsa0GKjrq4GaRUTZsWVvNBkB5LoJ_UXX8Ax7KtRu5a0=",
+      "bestTimeToVisit": "Autumn (September to November)",
+      "popularAttractions": ["Shibuya Crossing", "Senso-ji Temple", "Tokyo Tower"],
+      "reviews": [
+        { "user": "Alice Green", "rating": 5, "comment": "The perfect mix of tradition and modernity." },
+        { "user": "Tom Brown", "rating": 4, "comment": "Amazing food and culture!" }
+      ]
     },
     {
       "id": 3,
-      "projectId": 2,
-      "description": "Create a form with 5 input fields"
+      "name": "New York, USA",
+      "description": "The Big Apple, famous for Times Square and Broadway.",
+      "image": "https://plus.unsplash.com/premium_photo-1661954654458-c673671d4a08?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8bmV3JTIweW9yayUyMGNpdHl8ZW58MHx8MHx8fDA%3D",
+      "bestTimeToVisit": "Autumn (September to November)",
+      "popularAttractions": ["Statue of Liberty", "Central Park", "Times Square"],
+      "reviews": [
+        { "user": "Mark Johnson", "rating": 4, "comment": "An iconic city, full of energy." },
+        { "user": "Lucy Blue", "rating": 5, "comment": "New York never sleeps, and I loved it!" }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Santorini, Greece",
+      "description": "A beautiful island with whitewashed buildings and blue domes.",
+      "image": "https://plus.unsplash.com/premium_photo-1661964149725-fbf14eabd38c?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "bestTimeToVisit": "Summer (June to September)",
+      "popularAttractions": ["Oia Village", "Fira Town", "Red Beach"],
+      "reviews": [
+        { "user": "Sophia White", "rating": 5, "comment": "Stunning views and perfect sunsets." },
+        { "user": "Michael Black", "rating": 4, "comment": "A peaceful escape, but very touristy." }
+      ]
     }
   ]
 }
