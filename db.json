@@ -1,6 +1,5 @@
-
 {
-  "travels": [
+  "destinations": [
     {
       "id": 1,
       "name": "Paris, France",
@@ -29,7 +28,7 @@
       "id": 3,
       "name": "New York, USA",
       "description": "The Big Apple, famous for Times Square and Broadway.",
-      "image": "https://plus.unsplash.com/premium_photo-1661954654458-c673671d4a08?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8bmV3JTIweW9yayUyMGNpdHl8ZW58MHx8MHx8fDA%3D",
+      "image": "https://plus.unsplash.com/premium_photo-1661954654458-c673671d4a08?fm=jpg&q=60&w=3000",
       "bestTimeToVisit": "Autumn (September to November)",
       "popularAttractions": ["Statue of Liberty", "Central Park", "Times Square"],
       "reviews": [
@@ -41,12 +40,108 @@
       "id": 4,
       "name": "Santorini, Greece",
       "description": "A beautiful island with whitewashed buildings and blue domes.",
-      "image": "https://plus.unsplash.com/premium_photo-1661964149725-fbf14eabd38c?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "image": "https://plus.unsplash.com/premium_photo-1661964149725-fbf14eabd38c?q=80&w=2070",
       "bestTimeToVisit": "Summer (June to September)",
       "popularAttractions": ["Oia Village", "Fira Town", "Red Beach"],
       "reviews": [
         { "user": "Sophia White", "rating": 5, "comment": "Stunning views and perfect sunsets." },
         { "user": "Michael Black", "rating": 4, "comment": "A peaceful escape, but very touristy." }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Sydney, Australia",
+      "description": "Famous for its iconic Sydney Opera House and beautiful beaches.",
+      "image": "https://source.unsplash.com/featured/?sydney",
+      "bestTimeToVisit": "Spring (September to November)",
+      "popularAttractions": ["Sydney Opera House", "Bondi Beach", "Harbour Bridge"],
+      "reviews": [
+        { "user": "Emma Davis", "rating": 5, "comment": "Absolutely breathtaking!" },
+        { "user": "James Wilson", "rating": 4, "comment": "Great weather and friendly people." }
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Dubai, UAE",
+      "description": "A city of luxury, skyscrapers, and desert adventures.",
+      "image": "https://source.unsplash.com/featured/?dubai",
+      "bestTimeToVisit": "Winter (November to March)",
+      "popularAttractions": ["Burj Khalifa", "Palm Jumeirah", "Dubai Mall"],
+      "reviews": [
+        { "user": "Sarah Carter", "rating": 5, "comment": "A futuristic city like no other." },
+        { "user": "Daniel Brown", "rating": 4, "comment": "Expensive but worth the visit!" }
+      ]
+    },
+    {
+      "id": 7,
+      "name": "Rome, Italy",
+      "description": "The Eternal City, rich in history and culture.",
+      "image": "https://source.unsplash.com/featured/?rome",
+      "bestTimeToVisit": "Spring (April to June)",
+      "popularAttractions": ["Colosseum", "Vatican City", "Trevi Fountain"],
+      "reviews": [
+        { "user": "Olivia Martin", "rating": 5, "comment": "History comes alive here!" },
+        { "user": "Liam Johnson", "rating": 4, "comment": "Delicious food, but lots of tourists." }
+      ]
+    },
+    {
+      "id": 8,
+      "name": "Cape Town, South Africa",
+      "description": "A stunning coastal city with mountains and beaches.",
+      "image": "https://source.unsplash.com/featured/?capetown",
+      "bestTimeToVisit": "Summer (November to March)",
+      "popularAttractions": ["Table Mountain", "Cape Point", "V&A Waterfront"],
+      "reviews": [
+        { "user": "Ethan Roberts", "rating": 5, "comment": "Breathtaking views and wildlife." },
+        { "user": "Sophia Harris", "rating": 4, "comment": "Great outdoor activities!" }
+      ]
+    },
+    {
+      "id": 9,
+      "name": "Rio de Janeiro, Brazil",
+      "description": "Famous for its carnival, beaches, and Christ the Redeemer.",
+      "image": "https://source.unsplash.com/featured/?riodejaneiro",
+      "bestTimeToVisit": "Summer (December to March)",
+      "popularAttractions": ["Christ the Redeemer", "Copacabana Beach", "Sugarloaf Mountain"],
+      "reviews": [
+        { "user": "Carlos Mendes", "rating": 5, "comment": "The energy is amazing!" },
+        { "user": "Isabella Gomez", "rating": 4, "comment": "Vibrant city, but be cautious in some areas." }
+      ]
+    },
+    {
+      "id": 10,
+      "name": "Bali, Indonesia",
+      "description": "A tropical paradise with stunning beaches and temples.",
+      "image": "https://source.unsplash.com/featured/?bali",
+      "bestTimeToVisit": "Dry Season (April to October)",
+      "popularAttractions": ["Uluwatu Temple", "Tegallalang Rice Terraces", "Seminyak Beach"],
+      "reviews": [
+        { "user": "Ava Scott", "rating": 5, "comment": "A slice of paradise!" },
+        { "user": "Luca Fernandez", "rating": 4, "comment": "Beautiful, but can be crowded." }
+      ]
+    },
+    {
+      "id": 11,
+      "name": "Istanbul, Turkey",
+      "description": "A unique city that bridges Europe and Asia.",
+      "image": "https://source.unsplash.com/featured/?istanbul",
+      "bestTimeToVisit": "Spring (April to June)",
+      "popularAttractions": ["Hagia Sophia", "Grand Bazaar", "Blue Mosque"],
+      "reviews": [
+        { "user": "Mia Taylor", "rating": 5, "comment": "A magical city with so much history." },
+        { "user": "Noah Adams", "rating": 4, "comment": "Incredible food and culture." }
+      ]
+    },
+    {
+      "id": 12,
+      "name": "London, UK",
+      "description": "A historic yet modern metropolis full of attractions.",
+      "image": "https://source.unsplash.com/featured/?london",
+      "bestTimeToVisit": "Spring (March to May)",
+      "popularAttractions": ["Big Ben", "Tower of London", "Buckingham Palace"],
+      "reviews": [
+        { "user": "Emily Clark", "rating": 5, "comment": "A must-visit city with so much to see!" },
+        { "user": "Henry Lewis", "rating": 4, "comment": "Rainy, but absolutely charming." }
       ]
     }
   ]
