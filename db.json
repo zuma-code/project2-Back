@@ -52,7 +52,7 @@
       "id": 5,
       "name": "Sydney, Australia",
       "description": "Famous for its iconic Sydney Opera House and beautiful beaches.",
-      "image": "https://source.unsplash.com/featured/?sydney",
+      "image": "https://t4.ftcdn.net/jpg/00/95/84/43/360_F_95844332_9XLvoywtmY7IXunhNsLsQJ3jDsD8oMNo.webp",
       "bestTimeToVisit": "Spring (September to November)",
       "popularAttractions": ["Sydney Opera House", "Bondi Beach", "Harbour Bridge"],
       "reviews": [
@@ -64,7 +64,7 @@
       "id": 6,
       "name": "Dubai, UAE",
       "description": "A city of luxury, skyscrapers, and desert adventures.",
-      "image": "https://source.unsplash.com/featured/?dubai",
+      "image": "https://media.istockphoto.com/id/467829216/photo/dubai-marina.jpg?s=612x612&w=0&k=20&c=5KNh7wGSoP9i-UJzT-LtUfXgLHKKoBlPAK67R0LHRQY=",
       "bestTimeToVisit": "Winter (November to March)",
       "popularAttractions": ["Burj Khalifa", "Palm Jumeirah", "Dubai Mall"],
       "reviews": [
@@ -76,7 +76,7 @@
       "id": 7,
       "name": "Rome, Italy",
       "description": "The Eternal City, rich in history and culture.",
-      "image": "https://source.unsplash.com/featured/?rome",
+      "image": "https://www.citalia.com/-/media/bynder/citalia-non-geography/blogs/rome-city-guide/blog-rome-300273-2022-rome-shutterstock_1417390817-hybris.jpg?rev=6e4a0e96269a4345a799296d555a0c24&h=480.375&w=1081.5",
       "bestTimeToVisit": "Spring (April to June)",
       "popularAttractions": ["Colosseum", "Vatican City", "Trevi Fountain"],
       "reviews": [
@@ -88,7 +88,7 @@
       "id": 8,
       "name": "Cape Town, South Africa",
       "description": "A stunning coastal city with mountains and beaches.",
-      "image": "https://source.unsplash.com/featured/?capetown",
+      "image": "https://www.capetown.travel/wp-content/uploads/elementor/thumbs/Family-Friendly-qcl8azk6ybsdzlratakmwx27xlj9xawtpy17893lhw.jpg",
       "bestTimeToVisit": "Summer (November to March)",
       "popularAttractions": ["Table Mountain", "Cape Point", "V&A Waterfront"],
       "reviews": [
@@ -100,7 +100,7 @@
       "id": 9,
       "name": "Rio de Janeiro, Brazil",
       "description": "Famous for its carnival, beaches, and Christ the Redeemer.",
-      "image": "https://source.unsplash.com/featured/?riodejaneiro",
+      "image": "https://media.gettyimages.com/id/150271777/es/foto/rio-de-janeiro-brazil.jpg?s=612x612&w=0&k=20&c=SfHqwakZzTFqIldl6fNigRHyc4fQ718my-V7n-kaqHY=",
       "bestTimeToVisit": "Summer (December to March)",
       "popularAttractions": ["Christ the Redeemer", "Copacabana Beach", "Sugarloaf Mountain"],
       "reviews": [
@@ -112,7 +112,7 @@
       "id": 10,
       "name": "Bali, Indonesia",
       "description": "A tropical paradise with stunning beaches and temples.",
-      "image": "https://source.unsplash.com/featured/?bali",
+      "image": "https://media.istockphoto.com/id/653953140/photo/hindu-temple-in-bali.jpg?s=612x612&w=0&k=20&c=ysj3S2kV1ZgCr4QZWDzjvHRowCI3-cR1xQNnqE8-BS4=",
       "bestTimeToVisit": "Dry Season (April to October)",
       "popularAttractions": ["Uluwatu Temple", "Tegallalang Rice Terraces", "Seminyak Beach"],
       "reviews": [
@@ -124,7 +124,7 @@
       "id": 11,
       "name": "Istanbul, Turkey",
       "description": "A unique city that bridges Europe and Asia.",
-      "image": "https://source.unsplash.com/featured/?istanbul",
+      "image": "https://media.istockphoto.com/id/1327842864/photo/blue-mosque-of-istanbul-famous-place-of-visit-turkey.jpg?s=612x612&w=0&k=20&c=6lF8OluyWFLIHnvJiy4e13qaTkXA5PypbIHfzvjNOQE=",
       "bestTimeToVisit": "Spring (April to June)",
       "popularAttractions": ["Hagia Sophia", "Grand Bazaar", "Blue Mosque"],
       "reviews": [
@@ -136,7 +136,7 @@
       "id": 12,
       "name": "London, UK",
       "description": "A historic yet modern metropolis full of attractions.",
-      "image": "https://source.unsplash.com/featured/?london",
+      "image": "https://i.natgeofe.com/n/4def1048-f5e5-4973-ad3a-e188a97d363f/regents-street-london-england.jpg",
       "bestTimeToVisit": "Spring (March to May)",
       "popularAttractions": ["Big Ben", "Tower of London", "Buckingham Palace"],
       "reviews": [
